@@ -1,0 +1,294 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://hts.world/",
+            "path": "index.html",
+            "saved": true,
+            "size": 21821,
+            "children": [
+                {
+                    "url": "https://hts.world/static/picture/sUds6x.png",
+                    "path": "img/sUds6x.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4VLNR.jpg",
+                    "path": "img/a4VLNR.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4Vj9x.jpg",
+                    "path": "img/a4Vj9x.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4VqE9.jpg",
+                    "path": "img/a4VqE9.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4V43V.jpg",
+                    "path": "img/a4V43V.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4VWhq.jpg",
+                    "path": "img/a4VWhq.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4Vh90.jpg",
+                    "path": "img/a4Vh90.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/do0xc8.jpg",
+                    "path": "img/do0xc8.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4V7B4.jpg",
+                    "path": "img/a4V7B4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4VTuF.jpg",
+                    "path": "img/a4VTuF.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/do0j9P.jpg",
+                    "path": "img/do0j9P.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/picture/a4VHHJ.jpg",
+                    "path": "img/a4VHHJ.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 86927,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "saved": true,
+                    "size": 58072,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/js/jquery.easing.min.js",
+                    "path": "js/jquery.easing.min.js",
+                    "saved": true,
+                    "size": 2532,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/js/swiper.min.js",
+                    "path": "js/swiper.min.js",
+                    "saved": true,
+                    "size": 125617,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/js/jquery.magnific-popup.min.js",
+                    "path": "js/jquery.magnific-popup.min.js",
+                    "saved": true,
+                    "size": 20216,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/js/morphext.min.js",
+                    "path": "js/morphext.min.js",
+                    "saved": true,
+                    "size": 1014,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/js/isotope.pkgd.min.js",
+                    "path": "js/isotope.pkgd.min.js",
+                    "saved": true,
+                    "size": 35445,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/js/scripts.js",
+                    "path": "js/scripts.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/css/bootstrap.css",
+                    "path": "css/bootstrap.css",
+                    "saved": true,
+                    "size": 192348,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/css/magnific-popup.css",
+                    "path": "css/magnific-popup.css",
+                    "saved": true,
+                    "size": 6951,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/static/css/styles.css",
+                    "path": "css/styles.css",
+                    "saved": true,
+                    "size": 47501,
+                    "children": [
+                        {
+                            "url": "https://img03.sogoucdn.com/app/a/100520146/FE2AD25AE4CF262DB58FB4B49CBA58C6",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://hts.world/static/image/sUwLKx.png",
+                            "path": "img/sUwLKx.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hts.world/static/image/achXdg.jpg",
+                            "path": "img/achXdg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.xyfcm.top/images/hexagon-green.svg",
+                            "path": "img/hexagon-green.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hts.world/static/image/ac5eHS.jpg",
+                            "path": "img/ac5eHS.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hts.world/static/image/ac5ZB8.jpg",
+                            "path": "img/ac5ZB8.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://www.xyfcm.top/images/hexagon-white.svg",
+                            "path": "img/hexagon-white.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://img01.sogoucdn.com/app/a/100520146/0B586A7D085D120376A66E886388F822",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://z3.ax1x.com/2021/03/22/6TpxtP.jpg",
+                    "path": "img/6TpxtP.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hts.world/video/1.mp4",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "hts-world-8spq7wpl",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://hts.world/static/css/styles.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://hts.world/",
+            "statusCode": 200,
+            "headers": {
+                "connection": "close",
+                "content-type": "text/html",
+                "last-modified": "Sat, 01 May 2021 07:18:30 GMT",
+                "etag": "\"5e6d-608d00c6-4c6f7604b7e32326;gz\"",
+                "accept-ranges": "bytes",
+                "vary": "Accept-Encoding",
+                "content-length": "4838",
+                "date": "Sat, 27 Nov 2021 03:10:43 GMT",
+                "server": "LiteSpeed",
+                "x-powered-by": "PleskLin",
+                "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"43,46\""
+            }
+        },
+        "time": {
+            "start": "2021-11-27T03:10:42.988Z",
+            "end": "2021-11-27T03:11:05.398Z"
+        },
+        "remark": [],
+        "ip": "202.95.9.110",
+        "url": "https://hts.world/",
+        "main": "index.html",
+        "domain": "hts.world",
+        "origin": "https://hts.world",
+        "totalSize": "598 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://hts.world/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
